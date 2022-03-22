@@ -1,3 +1,4 @@
+##Out of date! see https://github.com/whuang37/tile_sampling for latest version.
 # 1. Table of Contents
 - [1. Table of Contents](#1-table-of-contents)
 - [2. Tile Sampling Annotation](#2-tile-sampling-annotation)
